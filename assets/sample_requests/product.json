@@ -1,0 +1,60 @@
+[
+    {
+        "pid":100,
+        "product_name":"Apple iPhone 11 (White, 64 GB)",
+        "price":51999,
+        "product_image":"https://rukminim1.flixcart.com/image/416/416/kgiaykw0/mobile/3/x/e/apple-iphone-11-mhdc3hn-a-original-imafwqepx5yxwctc.jpeg?q=70",
+        "offers":[
+            {
+                "offer_name":"Flipkart Axis Bank Credit Card",
+                "offer_description":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name":"Extra ₹2901 off",
+                "offer_description":"Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications":[
+            "64 GB ROM",
+            "15.49 cm (6.1 inch) Liquid Retina HD Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A13 Bionic Chip Processor"
+        ],
+        "category":"Electronics",
+        "sub_category":"Mobiles",
+        "seller":"TrueComRetail",
+        "reviews":[]
+    },
+    {
+        "pid":101,
+        "product_name":"Samsung Galaxy S20+ (Cosmic Gray, 128 GB)  (8 GB RAM)",
+        "price":54999,
+        "product_image":"https://rukminim1.flixcart.com/image/416/416/k6mibgw0/mobile/8/v/h/samsung-galaxy-s20-sm-g985fzadinu-original-imafpfkbqg3hpmgt.jpeg?q=70",
+        "offers":[
+            {
+                "offer_name":"Extra ₹28001 off",
+                "offer_description":"Special PriceExtra ₹28001 off(price inclusive of discount)"
+            },
+            {
+                "offer_name":"Flipkart Axis Bank Credit Card",
+                "offer_description":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name":"Extra ₹2901 off",
+                "offer_description":"Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications":[
+            "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "17.02 cm (6.7 inch) Quad HD+ Display",
+            "64 MP + 12 MP +12 MP + VGA Depth Camera | 10MP Front Camera",
+            "4500 mAh Lithium-ion Battery",
+            "Exynos 990 Processor",
+            "Super AMOLED Display"
+        ],
+        "category":"Electronics",
+        "sub_category":"Mobiles",
+        "seller":"TrueComRetail",
+        "reviews":[]
+    }
+]
